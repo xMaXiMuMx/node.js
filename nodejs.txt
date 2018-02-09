@@ -1,0 +1,47 @@
+C:\WINDOWS\system32>D:
+
+D:\>cd c
+
+D:\c>node hello.js
+HelloWorld
+
+D:\c>node test.js
+hello
+world
+
+D:\c>node app1.js
+Hello
+foo
+
+D:\c>node app2.js
+Hello
+foo
+
+D:\c>node app4.js
+foo:JoeJim
+
+D:\c>node app5.js
+foo:JoeJim
+
+D:\c>node app6.js
+foo
+foo
+foo
+foo
+
+D:\c>node app7.js
+5
+
+D:\c>node app8.js
+[Function: greet]
+HelloJohn
+
+D:\c>node app9.js
+27
+
+D:\c>node app10.js
+27
+
+D:\c>node app12.js
+21
+
